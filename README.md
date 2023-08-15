@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+*******FROM THE DEVELOPER*******
+Download the project
+In the terminal go to the project directory 
+Run "npm install" to get all the node modules
+Then run "npm start" to start the project
+App2.js is currently on display which displays The Todo Application.
+There are other applications that are commented on since I haven't implemented react-router. You can uncomment the required one and play with the applications.
